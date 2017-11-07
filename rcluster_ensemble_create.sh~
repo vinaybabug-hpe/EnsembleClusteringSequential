@@ -1,0 +1,8 @@
+#!/bin/bash 
+
+#call executable with .mat files as arguments
+./cluster_ensemble_create
+
+#-nojvm -Dgdb t_mex2cuda.m
+
+
